@@ -39,6 +39,7 @@ $ sudo pacman -U ./docker-desktop-<version>-<arch>.pkg.tar.zst
 ## Launch Docker Desktop
 
 {% include desktop-linux-launch.md %}
+ckdsns 
 
 ## Uninstall Docker Desktop
 
